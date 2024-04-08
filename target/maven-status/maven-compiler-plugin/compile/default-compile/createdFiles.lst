@@ -1,3 +1,7 @@
+com\pfplatform\service\CustomersService.class
+com\pfplatform\controller\CustomersController.class
+com\pfplatform\model\CustomersModel.class
+com\pfplatform\repository\CustomersRepository.class
 com\pfplatform\repository\CoursesRepository.class
 com\pfplatform\controller\CoursesController.class
 com\pfplatform\model\CoursesModel.class
