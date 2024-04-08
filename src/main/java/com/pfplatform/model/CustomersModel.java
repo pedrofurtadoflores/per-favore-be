@@ -44,7 +44,13 @@ public class CustomersModel {
     private String instagramHandle;
     private String bodySize;
     private String footSize;
-    private Address address;
+
+    private String country;
+    private String state;
+    private String city;
+    private String zipCode;
+    private String neighborhood;
+    private String addressStreet;
 
     private LocalDate registrationDate;
     private String gender;
