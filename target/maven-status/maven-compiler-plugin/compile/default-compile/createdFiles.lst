@@ -1,0 +1,6 @@
+com\pfplatform\repository\CoursesRepository.class
+com\pfplatform\controller\CoursesController.class
+com\pfplatform\model\CoursesModel.class
+com\pfplatform\service\CoursesService.class
+com\pfplatform\configuration\CorsConfig.class
+com\pfplatform\PfPlatformApplication.class
