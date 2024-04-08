@@ -1,14 +1,6 @@
 com\pfplatform\service\CustomersService.class
 com\pfplatform\controller\CustomersController.class
+com\pfplatform\model\CustomersModel.class
 com\pfplatform\repository\CustomersRepository.class
-com\pfplatform\repository\CoursesRepository.class
-com\pfplatform\service\CoursesService.class
-com\pfplatform\model\City.class
-com\pfplatform\model\Country.class
 com\pfplatform\configuration\CorsConfig.class
 com\pfplatform\PfPlatformApplication.class
-com\pfplatform\model\State.class
-com\pfplatform\model\CustomersModel.class
-com\pfplatform\controller\CoursesController.class
-com\pfplatform\model\CoursesModel.class
-com\pfplatform\model\Address.class

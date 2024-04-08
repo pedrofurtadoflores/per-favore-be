@@ -1,14 +1,6 @@
 C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\repository\CustomersRepository.java
-C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\controller\CustomersController.java
-C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\model\Address.java
-C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\model\CoursesModel.java
-C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\model\State.java
-C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\model\Country.java
 C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\PfPlatformApplication.java
-C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\model\City.java
+C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\controller\CustomersController.java
 C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\model\CustomersModel.java
-C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\repository\CoursesRepository.java
-C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\service\CoursesService.java
-C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\controller\CoursesController.java
 C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\service\CustomersService.java
 C:\Users\pedro\workspace\per-favore\per-favore-be\src\main\java\com\pfplatform\configuration\CorsConfig.java
